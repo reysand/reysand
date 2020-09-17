@@ -1,10 +1,14 @@
 ## Hi there, I'm Andrey! 👋
+<a href="https://github.com/reysand">
+  <img align="left" alt="Reysand's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
 <a href="https://www.linkedin.com/in/a-slyusar/">
   <img align="left" alt="Reysand's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/yukisyn">
   <img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-</a><br/>
+</a>
+<br/>
 
 ### About Me
 - 🔭 I’m currently working on [ft_ls](https://github.com/reysand/ft_ls)
