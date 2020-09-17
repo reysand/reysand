@@ -30,4 +30,4 @@
 </pre>
 
 ### GitHub Analytics
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reysand&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /> <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reysand&layout=compact&theme=vue" />
+<p align="center"><img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reysand&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /><img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reysand&layout=compact&theme=vue" /></p>
