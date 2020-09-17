@@ -15,7 +15,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: a97k572@gmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Linux 5.9-rc5	- Kleptomaniac Octopus
 
 ### Tech Stack
 <pre>
