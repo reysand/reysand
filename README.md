@@ -15,13 +15,8 @@
 
 ### About Me
 - 🔭 I’m currently working on [ft_ls](https://github.com/reysand/ft_ls)
-- 🎓 I'm currently studying Computer Science at the [MTUCI](https://mtuci.ru/?lang=en).
+- 🎓 I'm currently studying Computer Science at the [MTUCI](https://mtuci.ru/?lang=en) and at the [School 21](https://21-school.ru).
 - 🌱 I’m currently learning algorithms
-- 👯 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with Structures and Algorithms
-- 💬 Ask me about anything
-- 📫 How to reach me: a97k572@gmail.com
-- 😄 Pronouns: He / Him
 
 ### Tech Stack
 <pre>
