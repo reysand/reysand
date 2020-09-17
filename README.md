@@ -1,10 +1,10 @@
-## Hi there, I'm Andrey! 👋 ![Profile views](https://gpvc.arturio.dev/reysand)
+## Hi there, I'm Andrey! 👋
 <a href="https://www.linkedin.com/in/a-slyusar/">
   <img align="left" alt="Reysand's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/yukisyn">
   <img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
-</a>
+</a><br/>
 
 ### About Me
 - 🔭 I’m currently working on [ft_ls](https://github.com/reysand/ft_ls)
@@ -30,7 +30,4 @@
 </pre>
 
 ### GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reysand&show_icons=true&theme=vue&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reysand&layout=compact&theme=vue" />
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reysand&show_icons=true&theme=vue&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reysand&layout=compact&theme=vue" />
