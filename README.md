@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/a-slyusar/">
   <img align="left" alt="Reysand's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://t.me/yukisyn">
+  <img align="left" alt="Reysand's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <a href="https://steamcommunity.com/id/yukisyn">
   <img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
