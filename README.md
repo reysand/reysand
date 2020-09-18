@@ -19,7 +19,7 @@
 ### About Me
 - 🔭 I’m currently working on [ft_ls](https://github.com/reysand/ft_ls)
 - 🎓 I'm currently studying Computer Science at the [MTUCI](https://mtuci.ru/?lang=en) and at the [School 21](https://21-school.ru).
-- 🌱 I’m currently learning algorithms
+- 🌱 I’m currently learning [Computational Thinking with Beginning C Programming](https://www.coursera.org/specializations/computational-thinking-c-programming)
 
 ### Tech Stack
 <pre>
