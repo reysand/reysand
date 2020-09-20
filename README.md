@@ -26,7 +26,7 @@
 <b>></b> man reysand
 
   <b>OS:    </b> Arch Linux
-  <b>Shell: </b> Bash
+  <b>Shell: </b> Zsh
   <b>Editor:</b> Vim
   <b>Stack: </b> C, Java, Git, Docker
 
