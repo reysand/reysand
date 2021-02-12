@@ -14,6 +14,9 @@
 <a href="https://steamcommunity.com/id/yukisyn">
 	<img align="left" alt="Reysand's Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/steam.svg" />
 </a>
+
+[![My Codewarrior Profile Badge](https://www.codewars.com/users/reysand/badges/micro)](https://www.codewars.com/users/reysand)
+
 <br/>
 
 ### About Me
