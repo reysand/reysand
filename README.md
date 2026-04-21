@@ -62,12 +62,6 @@ $ cat about_me.txt
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=reysand&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reysand&theme=gruvbox&no-bg=true&no-frame=true&row=1&column=6" alt="Trophy" />
-</div>
-
 ## 💭 Random Dev Quote
 
 <div align="center">
